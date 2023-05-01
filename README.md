@@ -1,6 +1,6 @@
 # 👻 Peeker 
 
-Peeker is a video feed based application, which allows you to upload videos about yourself, watch and explore videos of other users. It is built with flutter💙.
+Peeker is a social media video feed based application, which allows you to upload videos about yourself, watch and explore videos of other users. It is built with flutter💙 and firebase.
 
 ## Features
 - Authentication(Email && Password).
