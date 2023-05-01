@@ -42,4 +42,4 @@ After cloning the app, migrate to the apps location on your computer,
 **Architecture**: MVC
 
 
-
+Please Star⭐ the repo if you like what you see😉.
