@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "666750708585",
+    "project_id": "peeker-8db31",
+    "storage_bucket": "peeker-8db31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666750708585:android:a59b93298c6525764c2bf8",
+        "android_client_info": {
+          "package_name": "com.example.peeker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666750708585-p1mc86f0ee7g808tat93t3di0iup4n1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtNZZXd3sSLiO9chMHvlDW-4FtTDB7fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666750708585-p1mc86f0ee7g808tat93t3di0iup4n1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666750708585-6rgpf0994gljh92nkbtnv6voett17ldv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.peeker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
