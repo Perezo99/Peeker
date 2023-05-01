@@ -15,8 +15,7 @@ Peeker is a video feed based application, which allows you to upload videos abou
 - Generate thumbnail out of video.
 
 ## 📸 ScreenShots
-
-![Screenshot_20230429-125639](https://user-images.githubusercontent.com/49396765/235514065-c8e19531-ba4c-427e-b37f-54ac3e94eb12.png)
+![Screenshot_20230429-125157](https://user-images.githubusercontent.com/49396765/235514759-1b161430-44b0-4c31-a270-a0a84d8c9fc7.png)
 ![Screenshot_20230429-125804](https://user-images.githubusercontent.com/49396765/235514086-d5720298-0c9d-4cb5-8811-56dccb7d05f1.png)
 
 ![Screenshot_20230429-125230](https://user-images.githubusercontent.com/49396765/235512973-04a563fe-12e7-4ef6-9ece-24030197838b.png)
